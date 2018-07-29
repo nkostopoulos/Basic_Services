@@ -1,1 +1,6 @@
-# Basic_Services
+# Basic_Services  
+  
+Includes:  
+-DHCP  
+-SSH  
+-NTP  
